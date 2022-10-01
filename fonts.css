@@ -62,6 +62,11 @@
 			-ms-font-feature-settings: "liga" 1, "dlig" 1;
 			-o-font-feature-settings: "liga" 1, "dlig" 1;
 			font-feature-settings: "liga" 1, "dlig" 1;
+			font-size: 1.25em;
+			text-decoration: none;
+			font-family: FontAwesome;
+			font-weight: normal;
+			font-style: normal;
 		}
 
 		.icon-glass:before                { content: "\f000"; }

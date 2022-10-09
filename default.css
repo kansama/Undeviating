@@ -757,5 +757,18 @@
 		text-align: center;
 		color: #FFFFFF;
 	}
+	ul.tools li
+	{
+		display: inline-block;
+		padding: 0em .2em;
+		font-size: 4em;
+	}
+	
+	ul.tools li span
+	{
+		display: none;
+		margin: 0;
+		padding: 0;
+	}
 	
 	
